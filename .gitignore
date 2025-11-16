@@ -1,2 +1,4 @@
-*.pdf
-*.pkl
+data/*
+classes/*
+eval/*
+poetry.lock
