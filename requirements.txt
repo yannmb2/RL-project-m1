@@ -1,0 +1,7 @@
+numpy
+pandas
+gymnasium
+gym-trading-env
+matplotlib
+torch
+optuna
