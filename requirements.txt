@@ -1,7 +1,7 @@
 numpy
 pandas
+matplotlib
 gymnasium
 gym-trading-env
-matplotlib
 torch
 optuna
